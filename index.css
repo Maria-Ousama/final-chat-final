@@ -41,7 +41,7 @@ body{
     display: flex;
 }
 .how{
-   position: absolute;
+   position: relative;
    top: 45px;
  border-radius: 0 0 40px 40px;
     width: 40%;
